@@ -1,14 +1,26 @@
-Hi, I'm Nathan Eng, a computer science major at the University of Oregon.
+Hi, I'm Nathan Eng, a computer science major at Georgia Institute of Technology 👋
+---
+Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
-- Highly interested in large-scale distributed data systems and databases, AI, blockchain development, and cloud computing
+- Highly interested in large-scale distributed data systems and databases, full stack development, machine learning, and cloud computing
 
-- Currently learning Solidity
+- Currently improving my Java programming skills
 
-- Currently working on a DeFi development startup
+- Working in Dr. Thad Starner's passive haptic learning lab under the Contextual Computing Group to create gloves that increase piano learning rates
 
 Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nathan-eng-66a62a219) - I'm open to collaborations or positions involving any of the topics above!
 
-<!---
-nathanaeng/nathanaeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages and Tools:
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/python.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/c.svg" />
+  <a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/c++.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/javascript.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/html.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/css.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/react.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/java.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/git.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/docker.svg" />
+  
+<!-- Other cool READMEs: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+     Images copied from: https://github.com/yurijserrano/Github-Profile-Readme-Logos/    -->
