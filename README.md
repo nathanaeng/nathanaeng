@@ -4,9 +4,9 @@ Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
 - Highly interested in large-scale distributed data systems and databases, full stack development, machine learning, and cloud computing
 
-- Currently improving my Java programming skills
+- Currently improving my Kubernetes knowledge
 
-- Working in Dr. Thad Starner's passive haptic learning lab under the Contextual Computing Group to create gloves that increase piano learning rates
+- Working as a software engineer intern @ Nike on the Service Platform team
 
 Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nathan-eng-66a62a219) - I'm open to collaborations or positions involving any of the topics above!
 
@@ -21,6 +21,8 @@ Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/n
 <a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/java.svg" />
 <a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/git.svg" />
 <a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/docker.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/kubernetes.svg" />
+<a href="#"><img align="left" width="26px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/aws.svg" />
   
 <!-- Other cool READMEs: https://github.com/abhisheknaiidu/awesome-github-profile-readme
      Images copied from: https://github.com/yurijserrano/Github-Profile-Readme-Logos/    -->
