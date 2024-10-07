@@ -1,4 +1,4 @@
-Hi, I'm Nathan Eng, a computer science major at Georgia Institute of Technology 👋
+Hi, I'm Nathan Eng, a computer science graduate from the Georgia Institute of Technology 👋
 ---
 Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
@@ -6,7 +6,7 @@ Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
 - Currently improving my Kubernetes knowledge
 
-- Working as a software engineer intern @ Nike on the Service Platform team
+- Working as a software engineer @ Nike on the Service Platform team
 
 Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nathan-eng-66a62a219) - I'm open to collaborations or positions involving any of the topics above!
 
