@@ -8,6 +8,8 @@ Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
 - Working as a software engineer @ Nike on the Service Platform team
 
+- Co-founder of [Bubble](https://github.com/bubble-social) - a social media startup focused on sharing your future plans with your network
+
 Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nathan-eng-66a62a219) - I'm open to collaborations or positions involving any of the topics above!
 
 ### Languages and Tools:
@@ -15,6 +17,7 @@ Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/n
 <a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/c.svg" />
   <a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/c++.svg" />
 <a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/javascript.svg" />
+<a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/others/typescript.svg" />
 <a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/html.svg" />
 <a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/css.svg" />
 <a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/react.svg" />
