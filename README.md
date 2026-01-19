@@ -6,7 +6,7 @@ Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
 - Currently improving my Kubernetes knowledge
 
-- Incoming SWE @ Palantir
+- SWE @ Palantir
 
 - Co-founder of [Bubble](https://github.com/bubble-social) - a social media startup focused on sharing your future plans with your network
 
