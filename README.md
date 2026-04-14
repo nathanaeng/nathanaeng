@@ -10,7 +10,7 @@ Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
 - Co-founder of [Bubble](https://github.com/bubble-social) - a social media startup focused on sharing your future plans with your network
 
-Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nathan-eng-66a62a219) - I'm open to collaborations or positions involving any of the topics above!
+Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nathan-eng-66a62a219).
 
 ### Languages and Tools:
 <a href="#"><img align="left" width="32px" src="https://github.com/nathanaeng/nathanaeng/blob/main/images/python.svg" />
