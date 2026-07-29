@@ -2,13 +2,11 @@ Hi, I'm Nathan Eng, a computer science graduate from the Georgia Institute of Te
 ---
 Check out my website, [nathanaeng.com](https://www.nathanaeng.com/)
 
-- Highly interested in large-scale distributed systems and databases, full stack development, machine learning, and cloud computing
+- SWE @ Google and ex-Palantir
 
-- Currently improving my Kubernetes knowledge
+- Highly interested in large-scale distributed systems and databases, full stack development, artificial intelligence, and cloud computing
 
-- SWE @ Palantir
-
-- Co-founder of [Bubble](https://github.com/bubble-social) - a social media startup focused on sharing your future plans with your network
+- Co-founder of [Bubble](https://github.com/bubble-social) - a social media startup focused on sharing your future plans
 
 Reach me at nathaneng89@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nathan-eng-66a62a219).
 
